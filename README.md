@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP and AngularJS**
 
-- 👯 I’m looking to collaborate on [AnC Network](https://anc-network.com/)
+- 👯 I'm collaborating with [AnC Network](https://anc-network.com/)
 
 - 👨‍💻 All of my projects are available at [tlmdeveloping.com](tlmdeveloping.com)
 
