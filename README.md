@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timehostgames" alt="timehostgames" /></a> </p>
 
-- 🔭 I’m currently working on [ItalyFullRp FiveM Server](https://ifrp.it/)
+- 🔭 I’m currently working on **SECRET**
 
 - 🌱 I’m currently learning **PHP and AngularJS**
 
-- 👯 I'm collaborating with [AnC Network](https://anc-network.com/)
+- 👨‍💻 All of my projects are available at [andreacarlizza.com](andreacarlizza.com)
 
-- 👨‍💻 All of my projects are available at [tlmdeveloping.com](tlmdeveloping.com)
-
-- 💬 Ask me about **ReactJS, HTML, Python, CSS, ASSEMBLY, ecc...**
+- 💬 Ask me about **NextJS, Laravel, Python, ecc...**
 
 - 📫 How to reach me **info@tlmdeveloping.com**
 
