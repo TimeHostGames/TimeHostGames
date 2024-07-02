@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP and AngularJS**
 
-- 👨‍💻 All of my projects are available at [andreacarlizza.com](andreacarlizza.com)
+- 👨‍💻 All of my projects are available at <a href="andreacarlizza.com">andreacarlizza.com</a>
 
 - 💬 Ask me about **NextJS, Laravel, Python, ecc...**
 
