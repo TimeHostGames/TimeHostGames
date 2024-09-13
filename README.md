@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TimeHostGames</h1>
-<h3 align="center">I am a full-stack develooper student who is passionate about programming</h3>
+<h3 align="center">I am a full-stack develooper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timehostgames&label=Profile%20views&color=0e75b6&style=flat" alt="timehostgames" /> </p>
 
@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **SECRET**
 
-- 🌱 I’m currently learning **PHP and AngularJS**
-
 - 👨‍💻 All of my projects are available at <a href="andreacarlizza.com">andreacarlizza.com</a>
 
 - 💬 Ask me about **NextJS, Laravel, Python, ecc...**
 
-- 📫 How to reach me **info@tlmdeveloping.com**
+- 📫 How to reach me **info@andreacarlizza.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
